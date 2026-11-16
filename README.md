@@ -1,5 +1,5 @@
 # Trollface morph
 
-Krótki mem: twarz płynnie zmienia się w trollface, z dźwiękiem impostora podniesionym o dwie oktawy.
+Twarz przechodzi w trollface w miejscu: oczy zostają na oczach, usta rozciągają się w uśmiech.
 
 Plik: [trollface-morph.mp4](./trollface-morph.mp4)
