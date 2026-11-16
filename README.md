@@ -1,5 +1,5 @@
 # Trollface morph
 
-Twarz przechodzi w trollface w miejscu: oczy zostają na oczach, usta rozciągają się w uśmiech.
+When being an imposter — twarz rozciąga się w trollface.
 
-Plik: [trollface-morph.mp4](./trollface-morph.mp4)
+[trollface-morph.mp4](./trollface-morph.mp4)
